@@ -1,2 +1,2 @@
 # Hello-World
-Demo repository for angular2 app
+this is i have deleted all
